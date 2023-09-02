@@ -1,0 +1,22 @@
+Object Destructuring 1
+Answer: 8, 1846
+
+
+Object Destructuring 2
+Answer: {yearNeptuneDiscovered: 1846, yearMarsDiscovered: 1659}
+
+
+Object Destructuring 3
+Answer: `Your name is Alejandro and you like purple`, `Your name is Melissa and you like green`, `Youre name is undefined and you like green'
+
+
+Array Destructuring 1
+Answer: "Maya", "Marisa", "Chi"
+
+
+Array Destructuring 2
+Answer: "Raindrops on roses", "whiskers on kittens", "Bright copper kettles" "warm woolen mittens" "Brown paper packages tied up with strings"
+
+
+Array Destructuring 3
+Answer: [10, 30, 20]
